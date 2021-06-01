@@ -2,7 +2,7 @@
   "name": "simple-mern",
   "version": "0.2.0",
   "private": true,
-  "proxy": "http://10.1.0.5:5000",
+  "proxy": "http://172.24.58.99:5000",
   "type":"module",
   "dependencies": {
     "react": "^16.7.0",
